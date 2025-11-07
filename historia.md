@@ -9,3 +9,7 @@ Tudo mudou em uma noite tempestuosa de outubro. Um raio cortou o céu, atingindo
 # O terceiro parágrafo conclui a história:
 
 O diário pertencia ao seu bisavô e continha anotações detalhadas sobre uma passagem secreta no porão que levava a um túnel antigo, usado durante a Lei Seca. A "assombração" não passava do vento soprando pelas frestas do túnel abandonado. Com a ajuda das instruções e da chave, Elias e Bento exploraram a passagem, encontrando uma série de garrafas antigas e até uma pequena caixa de moedas de prata. Elias nunca contou a ninguém sobre sua descoberta, preferindo deixar o mistério da "casa assombrada" intacto. Agora, a cada uivo do vento, ele sorria, sabendo que tinha um segredo só dele e de Bento.
+
+# Parágrafo 4:
+
+Testando o repositório.
