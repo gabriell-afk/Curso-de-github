@@ -12,6 +12,6 @@ O diário pertencia ao seu bisavô e continha anotações detalhadas sobre uma p
 
 # Parágrafo 4:
 
-Com a ajuda da feiticeira, a aventureira conseguiu chegar ao castelo, de foi escotada até a sala do trono do rei Giulius VIII. E então, após converser com vossa majestade, a aventureira continuou sua jornada para deixar o mundo em paz.
+Com a ajuda da feiticeira, a aventureira conseguiu chegar ao castelo, de foi escotada até a sala do trono do rei Giulius VIII. E então, após converser com vossa majestade, a aventureira continuou sua jornada para deixar o mundo em paz. Até que se inicie a prócima guerra, ela ficara na espreita.
 
 # FIM...
